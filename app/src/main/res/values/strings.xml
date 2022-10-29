@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Tarea02</string>
+
+    //Strings for Login
+
+    <string name="crear_una_cuenta">Crear una cuenta</string>
+    <string name="email_address">Dirección de Correo</string>
+    <string name="password">Password</string>
+    <string name="continuar_con_google">Continuar con Google</string>
+    <string name="ya_tienes_cuenta">¿Ya tienes una cuenta?</string>
+
 </resources>
